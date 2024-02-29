@@ -12,4 +12,4 @@
 
 6. Vào gamge, chọn săn độ khó và nhận vật, rồi start auto
 
-
+<img src="https://github.com/thanhhung87/AutoATD/assets/157620249/2a71101b-77d6-424a-bd8c-7f8f6a54eb43" width="600" alt="Do phan giai" />
