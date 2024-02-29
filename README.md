@@ -1,7 +1,12 @@
-# AutoATD v0.3
+# AutoATD v0.4
 - Auto Against the Devil, custom map Dota 2
 - Link donate: http://hungnt87.opendt.net/
-# I. Huớng dẫn sử dụng
+- Community: https://discord.gg/WfbzurNtzJ
+- Contact 1: https://t.me/nthung87 
+- Contact  2: https://discordapp.com/users/213165660648243210
+# I. Chức năng
+- Học skil, nâng cấp vũ khí, gọi boss, đột phá, rmk
+# II. Huớng dẫn sử dụng
 1. Tải file phiên bản AutoATD.zip mới nhất tại [https://github.com/thanhhung87/AutoATD/releases]
 2. Giải nén file AutoATD.zip
 3. Mở file AutoATD.exe
