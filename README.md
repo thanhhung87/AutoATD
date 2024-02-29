@@ -12,5 +12,4 @@
 
 6. Đễ sẵn cửa sổ game như sau
 
-   https://github.com/thanhhung87/AutoATD/assets/157620249/d1186ddf-8f14-4bf5-a3c6-5504cc281e33
 <img src="https://github.com/thanhhung87/AutoATD/assets/157620249/d1186ddf-8f14-4bf5-a3c6-5504cc281e33" width="600" alt="Do phan giai" />
