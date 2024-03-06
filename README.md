@@ -5,9 +5,9 @@
 - Contact 1: https://t.me/nthung87 
 - Contact  2: https://discordapp.com/users/213165660648243210
 # Cập nhật:
-- Gọi boss Hỗn Độn
+- nhặt đồ 4 góc cuối game, mở rương hỗn độn
 # I. Chức năng
-- Học skil, nâng cấp vũ khí, gọi boss, đột phá, nhặt đồ, bán đồ, mua tiem, remake
+- Học skil, nâng cấp vũ khí, gọi boss Hỗn Độn, đột phá, nhặt đồ cuối game, bán đồ, mua tiem, remake
 # II. Huớng dẫn sử dụng
 1. Tải file phiên bản AutoATD.zip mới nhất tại [https://github.com/thanhhung87/AutoATD/releases]
 2. Giải nén file AutoATD.zip
