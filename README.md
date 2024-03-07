@@ -1,13 +1,14 @@
-# AutoATD v0.8
+# AutoATD v0.9
 - Auto Against the Devil, custom map Dota 2
 - Link donate: http://hungnt87.opendt.net/
 - Community: https://discord.gg/WfbzurNtzJ
 - Contact 1: https://t.me/nthung87 
 - Contact  2: https://discordapp.com/users/213165660648243210
 # Cập nhật:
-- nhặt đồ 4 góc cuối game, mở rương hỗn độn
+-  Hệ thống config item: Config > item
+-  Config số lượng item cần mua
 # I. Chức năng
-- Học skil, nâng cấp vũ khí, gọi boss Hỗn Độn, đột phá, nhặt đồ cuối game, bán đồ, mua tiem, remake
+- Học skil, nâng cấp vũ khí, gọi boss Hỗn Độn, mở rương hỗn độn, đột phá, nhặt đồ cuối game, bán đồ, mua tiem, remake
 # II. Huớng dẫn sử dụng
 1. Tải file phiên bản AutoATD.zip mới nhất tại [https://github.com/thanhhung87/AutoATD/releases]
 2. Giải nén file AutoATD.zip
