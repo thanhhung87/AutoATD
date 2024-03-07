@@ -1,10 +1,11 @@
-# AutoATD v0.9
+# AutoATD v1.0
 - Auto Against the Devil, custom map Dota 2
 - Link donate: http://hungnt87.opendt.net/
 - Community: https://discord.gg/WfbzurNtzJ
 - Contact 1: https://t.me/nthung87 
 - Contact  2: https://discordapp.com/users/213165660648243210
 # Cập nhật:
+- Fix hệ thống thống kê số lượng item đã mua
 -  Hệ thống config item: Config > item
 -  Config số lượng item cần mua
 # I. Chức năng
