@@ -9,7 +9,7 @@
 - Thêm nhiều Item hơn
 - Thêm hướng dẫn cấu hình game để auto hoạt động đúng
 # I. Chức năng
-- Học skil, nâng cấp vũ khí, gọi boss Hỗn Độn, mở rương hỗn độn, đột phá, nhặt đồ cuối game, bán đồ, mua tiem, config số lượng item muôn mua, remake
+- Học skil, nâng cấp vũ khí, gọi boss Hỗn Độn, mở rương hỗn độn, đột phá, nhặt đồ cuối game, bán đồ, mua tiem, config số lượng item muốn mua, remake
 # II. Huớng dẫn sử dụng
 1. Tải file phiên bản AutoATD.zip mới nhất tại [https://github.com/thanhhung87/AutoATD/releases]
 2. Giải nén file AutoATD.zip
