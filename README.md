@@ -1,10 +1,11 @@
-# AutoATD v1.1
+# AutoATD v1.2
 - Auto Against the Devil, custom map Dota 2
 - Link donate: http://hungnt87.opendt.net/
 - Community: https://discord.gg/WfbzurNtzJ
 - Contact 1: https://t.me/nthung87 
 - Contact  2: https://discordapp.com/users/213165660648243210
 # Cập nhật:
+- Tắt like
 - Hệ thống chọn Hero và độ khó N: Config > Auto
 - Thêm nhiều Item hơn
 - Thêm hướng dẫn cấu hình game để auto hoạt động đúng
