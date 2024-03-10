@@ -1,10 +1,12 @@
-# AutoATD v1.4
+# AutoATD v1.5
 - Auto Against the Devil, custom map Dota 2
 - Link donate: http://hungnt87.opendt.net/
 - Community: https://discord.gg/WfbzurNtzJ
 - Contact 1: https://t.me/nthung87 
 - Contact  2: https://discordapp.com/users/213165660648243210
 # Cập nhật:
+- Thêm tùy chọn phân giải đồ vật
+- Tăng lựa chọn độ khó lên N24
 - Fix lỗi rematch ingame
 - Thêm hệ thống check Dota 2 update thì khởi động lại Dota 2 để update, cần config cấu hình game như hướng dẫn bên dưới
 - Thêm hướng dẫn cấu hình game để auto hoạt động đúng
