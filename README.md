@@ -4,6 +4,7 @@
 - Community: https://discord.gg/WfbzurNtzJ
 - Contact 1: https://t.me/nthung87 
 - Contact  2: https://discordapp.com/users/213165660648243210
+- Sử dụng lần đầu có 03 ngày để test, liên hệ để lấy key
 # Cập nhật:
 - Thêm tùy chọn thời gian gọi boss hỗn độn
 - Thêm tùy chọn số lần nâng cấp vũ khí
