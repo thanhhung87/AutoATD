@@ -1,4 +1,4 @@
-# AutoATD v1.6
+# AutoATD v1.7
 - Auto Against the Devil, custom map Dota 2
 - Link donate: http://hungnt87.opendt.net/
 - Community: https://discord.gg/WfbzurNtzJ
