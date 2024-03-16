@@ -1,4 +1,4 @@
-# AutoATD v1.8
+# AutoATD v1.9
 - Auto Against the Devil, custom map Dota 2
 - Link donate: http://hungnt87.opendt.net/
 - Community: https://discord.gg/WfbzurNtzJ
@@ -6,9 +6,8 @@
 - Contact 2: https://discordapp.com/users/213165660648243210
 ## Sử dụng lần đầu có 03 ngày để test, liên hệ để lấy key
 # Cập nhật:
-- Thêm nhiều item mới vào cơ sở dữ liệu
-- Chức năng giám sát lời mời nhóm: Hủy mọi mời nhóm
-- Tối ưu mua item
+- Nhặt rương butcher
+- Tối ưu mua item, lock item
 - Race mode (đang phát triển)
 # I. Chức năng
 - Học skil, nâng cấp vũ khí, gọi boss Hỗn Độn, mở rương hỗn độn, đột phá, nhặt đồ cuối game, bán đồ, mua item, remake khi custom game cập nhật hoặc Dota cập nhật
