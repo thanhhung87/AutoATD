@@ -6,9 +6,7 @@
 - Contact 2: https://discordapp.com/users/213165660648243210
 ## Sử dụng lần đầu có 03 ngày để test, liên hệ để lấy key
 # Cập nhật:
-- Thêm lựa chọn độ khó đến N33
-- Thêm tùy chọn thời gian mua item
-- Race mode (đang phát triển)
+- Thêm chọn chức độ khó Vấn tiên khi vào game
 # I. Chức năng
 - Học skil, nâng cấp vũ khí, gọi boss Hỗn Độn, mở rương hỗn độn, đột phá, nhặt đồ cuối game, bán đồ, mua item, remake khi custom game cập nhật hoặc Dota cập nhật, Nhặt rương butcher
 - Config > Item: Hệ thống config số lượng item muốn mua.
