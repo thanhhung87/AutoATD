@@ -1,4 +1,4 @@
-# AutoATD v2.1
+# AutoATD v2.2
 - Auto Against the Devil, custom map Dota 2
 - Link donate: http://hungnt87.opendt.net/
 - Community: https://discord.gg/WfbzurNtzJ
@@ -6,7 +6,7 @@
 - Contact 2: https://discordapp.com/users/213165660648243210
 ## Sử dụng lần đầu có 03 ngày để test, liên hệ để lấy key
 # Cập nhật:
-- Thêm chọn chức độ khó Vấn tiên khi vào game
+- Thêm mức chọn độ khó đến N72
 # I. Chức năng
 - Học skil, nâng cấp vũ khí, gọi boss Hỗn Độn, mở rương hỗn độn, đột phá, nhặt đồ cuối game, bán đồ, mua item, remake khi custom game cập nhật hoặc Dota cập nhật, Nhặt rương butcher
 - Config > Item: Hệ thống config số lượng item muốn mua.
